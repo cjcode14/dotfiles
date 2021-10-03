@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = clementine.john@icloud.com
+	name = Clementine John
